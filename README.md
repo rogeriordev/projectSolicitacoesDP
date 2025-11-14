@@ -2,10 +2,6 @@
 
 Sistema web completo para gerenciamento de solicitações de Recursos Humanos, desenvolvido com CodeIgniter 4, permitindo o controle eficiente de diversos tipos de requisições corporativas.
 
-## 📸 Preview
-
-![Menu de Solicitações](docs/menu-solicitacoes.png)
-
 ## 🎯 Sobre o Projeto
 
 O **Sistema de Gestão de Solicitações de RH** é uma aplicação web robusta desenvolvida para automatizar e centralizar o processo de requisições e solicitações relacionadas ao departamento de Recursos Humanos de empresas. O sistema oferece um fluxo completo desde a criação da solicitação até sua aprovação/reprovação, com controle de permissões baseado em perfis e hierarquias organizacionais.
